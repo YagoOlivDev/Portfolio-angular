@@ -1,4 +1,4 @@
-# Meu Portfólio Visual - (Este Projeto está em desenvolvimento).
+# Meu Portfólio Visual 
 
 Bem-vindo ao meu portfólio visual! Este projeto foi desenvolvido utilizando **Angular** e **TypeScript**. Aqui, você encontrará uma coleção de meus trabalhos, habilidades e projetos que refletem minha jornada como desenvolvedor.
 
