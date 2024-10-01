@@ -57,7 +57,7 @@ export class ProjectsComponent {
         links: [
           {
             name: 'Conheça o Projeto',
-            href: 'https://github.com/YagoOlivDev/Portfolio-angular'
+            href: 'https://github.com/YagoOlivDev/API-Course-Spring-Angular'
           }
         ]
       },
