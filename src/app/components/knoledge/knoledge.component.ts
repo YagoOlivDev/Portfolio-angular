@@ -23,8 +23,13 @@ export class KnoledgeComponent {
       },
 
       {
-        src: 'assets/icons/angular.svg',
-        alt: 'conhecimentos de Angular',
+        src: 'assets/icons/csharp.svg',
+        alt: 'conhecimentos de C#',
+      },
+
+      {
+        src: 'assets/icons/Dotnet.png',
+        alt: 'conhecimentos de Dotnet',
       },
 
       {
@@ -40,6 +45,16 @@ export class KnoledgeComponent {
       {
         src: 'assets/icons/css.svg',
         alt: 'conhecimentos de Css',
+      },
+
+      {
+        src: 'assets/icons/typescript.svg',
+        alt: 'conhecimentos de typescript',
+      },
+
+      {
+        src: 'assets/icons/angular.svg',
+        alt: 'conhecimentos de Angular',
       },
 
       {
