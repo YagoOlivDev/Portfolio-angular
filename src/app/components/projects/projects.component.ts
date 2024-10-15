@@ -52,7 +52,7 @@ export class ProjectsComponent {
         alt: 'Projeto Fullstack',
         title: 'Crud Fullstack',
         width: '100px',
-        height: '51px',
+        height: '101px',
         description: '<p>Este crud foi feito na intenção de aprimorar minhas habilidades como fullstack, ligando ponto a ponto no desenvolvimento.</p>',
         links: [
           {

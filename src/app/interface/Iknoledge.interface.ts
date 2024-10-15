@@ -1,5 +1,7 @@
 export interface Iknoledge
 {
   src: string,
-  alt: string
+  alt: string,
+  name: string
+  descricao: string
 }

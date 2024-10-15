@@ -27,15 +27,34 @@
       flex-wrap: wrap;
 
       li{
-        width: 40px;
-        height: 40px;
-
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 10px 10px;
-
+        width: 270px;
+        height: 300px;
         border-radius: 7px;
+        border: 3px solid transparent;
+        transition: 0.5s;
+        display: flex;
+        flex-direction: column;
+        justify-content: top;
+        align-items: center;
+        margin: 20px 20px;
+
+        &:hover{
+          background-color:var(--cor-primaria);
+          border-color: var(--cor-quarta);
+          p, h3{
+            color: var(--cor-quarta);
+          }
+        }
+
+        img{
+          margin-top: 15px;
+        }
+
+        p {
+          width: 90%;
+          text-align: center;
+          color: #D3D3D3;
+        }
 
       }
     }
