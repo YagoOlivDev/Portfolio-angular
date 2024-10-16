@@ -12,5 +12,10 @@ import { ProjectsComponent } from '../../components/projects/projects.component'
   styleUrl: 'home.component.scss'
 })
 export class HomeComponent {
-
+  scrollTo(section: string) {
+    const element = document.getElementById(section);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
 }
