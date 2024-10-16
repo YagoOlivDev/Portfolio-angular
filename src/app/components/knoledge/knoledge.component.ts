@@ -44,7 +44,7 @@ export class KnoledgeComponent {
         src: 'assets/icons/mysql.svg',
         alt: 'conhecimentos de Banco de dados',
         name: 'MySQL',
-        descricao: 'anco de dados relacional que utilizo para armazenar e consultar dados com SQL. Ele é confiável e tem uma comunidade ativa, o que facilita resolver qualquer dúvida.'
+        descricao: 'Banco de dados relacional que utilizo para armazenar e consultar dados com SQL. Ele é confiável e tem uma comunidade ativa, o que facilita resolver qualquer dúvida.'
       },
 
       {
