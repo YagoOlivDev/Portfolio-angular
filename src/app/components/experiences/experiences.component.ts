@@ -14,6 +14,14 @@ export class ExperiencesComponent {
     [
       {
         summary: {
+          strong: 'Desenvolvedor RPA Aprendiz',
+          p: 'Atuo como Desenvoledor RPA Aprendiz na Quality Digital',
+        },
+        text: "<p>Como Desenvolvedor RPA Aprendiz, atuo no desenvolvimento de projetos que automatizam processsos de rotina. Isto envolve experiências como: Consumo de APIs, Utilização e administração de bancos de dados SQL, utilização de Linguagens de programação como: JavaScript, PowerShell Script, Python, Java, VBscript, entre outras linguagens. Está experiência tem sido enriquecedora. Já que, além de uma grande quantidade de tecnologias, tenho aprendido padrões de Software e processos administrativos, pois os automatizo, acelero e faço com que a mão de obra humana seja substituida, garantindo mais assertividade.</p>"
+      },
+
+      {
+        summary: {
           strong: 'Desenvolvedor Full-stack',
           p: '(Java + Spring) e (TypeScript + Angular)',
         },
