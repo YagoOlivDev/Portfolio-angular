@@ -31,7 +31,7 @@ export class ExperiencesComponent {
       {
         summary: {
           strong: 'Aprendiz de TI',
-          p: 'Atuo como Aprendiz de TI na Milano brasil.',
+          p: 'Atuei como Aprendiz de TI na Milano brasil.',
         },
         text: '<p>Como Aprendiz de TI, atuo prestando suporte técnico direto aos colaboradores, ajudando na resolução de problemas relacionados a hardware e software, além de realizar reparos e manutenções na infraestrutura de TI. Tenho experiência no gerenciamento de planilhas complexas, onde organizo e mantenho dados essenciais para o setor. Além disso, busco otimizar os processos internos através da automatização de tarefas repetitivas, garantindo maior eficiência nas operações diárias e facilitando a rotina da equipe.</p>'
       },
