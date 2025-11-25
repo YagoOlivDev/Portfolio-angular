@@ -14,10 +14,18 @@ export class ExperiencesComponent {
     [
       {
         summary: {
-          strong: 'Desenvolvedor RPA Aprendiz',
-          p: 'Atuo como Desenvoledor RPA Aprendiz na Quality Digital',
+          strong: 'Analista de Automação | RPA Jr',
+          p: 'Atuo como Analista de Automação | RPA Jr na Quality Digital',
         },
-        text: "<p>Como Desenvolvedor RPA Aprendiz, atuo no desenvolvimento de projetos que automatizam processsos de rotina. Isto envolve experiências como: Consumo de APIs, Utilização e administração de bancos de dados SQL, utilização de Linguagens de programação como: JavaScript, PowerShell Script, Python, Java, VBscript, entre outras linguagens. Está experiência tem sido enriquecedora. Já que, além de uma grande quantidade de tecnologias, tenho aprendido padrões de Software e processos administrativos, pois os automatizo, acelero e faço com que a mão de obra humana seja substituida, garantindo mais assertividade.</p>"
+        text: "<p>Como Analista de RPA, •	Responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.
+</p>"
+      },
+      {
+        summary: {
+          strong: 'Assistente de automação | RPA',
+          p: 'Atuava como Assistende de Automação | RPA na Quality Digital',
+        },
+        text: "<p>Como Assistente de RPA, atuava no desenvolvimento de projetos que automatizam processos de rotina. Isto envolve experiências como: Consumo de APIs, Utilização e administração de bancos de dados SQL, utilização de Linguagens de programação como: JavaScript, PowerShell Script, Python, Java, VBscript, entre outras linguagens. Está experiência foi enriquecedora, já que, além de uma grande quantidade de tecnologias, tenho aprendido padrões de Software e processos administrativos, pois os automatizo, acelero e faço com que a mão humana seja reduzida. Garantindo assim, mais assertividade.</p>"
       },
 
       {
