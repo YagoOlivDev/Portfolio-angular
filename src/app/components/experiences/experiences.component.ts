@@ -17,8 +17,7 @@ export class ExperiencesComponent {
           strong: 'Analista de Automação | RPA Jr',
           p: 'Atuo como Analista de Automação | RPA Jr na Quality Digital',
         },
-        text: "<p>Como Analista de RPA, •	Responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.
-</p>"
+        text: "<p>Como Analista de RPA, •	Responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.</p>"
       },
       {
         summary: {
