@@ -14,25 +14,23 @@ export class ExperiencesComponent {
     [
       {
         summary: {
-          strong: 'Analista de Automação | RPA Jr',
-          p: 'Atuo como Analista de Automação | RPA Jr na Quality Digital',
+          strong: 'Analista de Automação | RPA Pleno',
+          p: 'Analista de Automação | RPA Pleno na Quality Digital',
         },
-        text: "<p>Como Analista de RPA, sou responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.</p>"
+        text: "<p>Desenvolvimento autônomo de projetos de automação utilizando UiPath, desde a análise de requisitos até a entrega final, com foco em escalabilidade e confiabilidade. Implantação de robôs responsáveis por processar grandes volumes de dados em múltiplas execuções diárias, substituindo operações manuais que exigia múltiplas pessoas dedicadas. Atuação em projetos críticos para clientes externos, com foco na redução de custos operacionais e aumento da eficiência por meio da automação de tarefas repetitivas e de alto impacto. </p>"
+      },
+        summary: {
+          strong: 'Analista de Automação | RPA Junior',
+          p: 'Analista de Automação | RPA Junior na Quality Digital',
+        },
+        text: "<p>Como Analista de RPA Junior, era responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.</p>"
       },
       {
         summary: {
           strong: 'Assistente de automação | RPA',
-          p: 'Atuava como Assistende de Automação | RPA na Quality Digital',
+          p: 'Assistente de Automação | RPA na Quality Digital',
         },
         text: "<p>Como Assistente de RPA, atuava no desenvolvimento de projetos que automatizam processos de rotina. Isto envolve experiências como: Consumo de APIs, Utilização e administração de bancos de dados SQL, utilização de Linguagens de programação como: JavaScript, PowerShell Script, Python, Java, VBscript, entre outras linguagens. Está experiência foi enriquecedora, já que, além de uma grande quantidade de tecnologias, tenho aprendido padrões de Software e processos administrativos, pois os automatizo, acelero e faço com que a mão humana seja reduzida. Garantindo assim, mais assertividade.</p>"
-      },
-
-      {
-        summary: {
-          strong: 'Desenvolvedor Full-stack',
-          p: '(Java + Spring) e (TypeScript + Angular)',
-        },
-        text: "<p>Como desenvolvedor fullstack em formação, tenho uma sólida base prática no desenvolvimento de back-end com Java e o framework Spring, onde aplico princípios como SOLID e o padrão MVC para construir APIs robustas e escaláveis. No front-end, estou ganhando cada vez mais experiência com TypeScript e Angular, desenvolvendo interfaces dinâmicas e responsivas, sempre visando a melhor experiência do usuário. Minha habilidade de transitar entre front-end e back-end me permite ter uma visão mais ampla dos projetos, garantindo uma integração eficaz entre as duas camadas da aplicação.</p>"
       },
 
       {
