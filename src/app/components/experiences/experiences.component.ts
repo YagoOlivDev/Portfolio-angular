@@ -19,12 +19,15 @@ export class ExperiencesComponent {
         },
         text: "<p>Desenvolvimento autônomo de projetos de automação utilizando UiPath, desde a análise de requisitos até a entrega final, com foco em escalabilidade e confiabilidade. Implantação de robôs responsáveis por processar grandes volumes de dados em múltiplas execuções diárias, substituindo operações manuais que exigia múltiplas pessoas dedicadas. Atuação em projetos críticos para clientes externos, com foco na redução de custos operacionais e aumento da eficiência por meio da automação de tarefas repetitivas e de alto impacto. </p>"
       },
+      
+      {
         summary: {
           strong: 'Analista de Automação | RPA Junior',
           p: 'Analista de Automação | RPA Junior na Quality Digital',
         },
         text: "<p>Como Analista de RPA Junior, era responsável pelo desenvolvimento, sustentação e otimização de soluções RPA para clientes externos, com foco na automação de processos críticos, aumento da eficiência, redução de erros manuais e execução de tarefas de alto volume. Também participo ativamente na análise de processos, propondo melhorias e soluções que aumentam a eficiência operacional e reduzem custos.</p>"
       },
+      
       {
         summary: {
           strong: 'Assistente de automação | RPA',
